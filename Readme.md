@@ -1,7 +1,7 @@
 # Proyecto Hito 2 - Backend
 
 ## Descripción
-Este repositorio contiene el backend del proyecto "Prueba Hito 2" desarrollado con Node.js, Express y PostgreSQL. Proporciona la API REST para la gestión de usuarios, productos, categorías y carrito.
+Este repositorio contiene el backend del proyecto "Hito 3" desarrollado con Node.js, Express y PostgreSQL. Proporciona la API REST para la gestión de usuarios, productos, categorías y carrito.
 
 ## Requerimientos del Hito
 Se intentó cumplir con los siguientes puntos:
